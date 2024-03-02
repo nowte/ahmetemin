@@ -35,12 +35,13 @@
   <br>
   
     ✉️ - developerahmet31@gmail.com
+
   
 </h1>
    
-
 <h1 align="center">
-  
+
   [![](https://visitcount.itsvg.in/api?id=aahmeteminaydin&icon=0&color=0)](https://visitcount.itsvg.in)
-  [![Join on Discord](https://discordapp.com/api/guilds/1155912047897350204/widget.png?style=shield)](https://discord.gg/gsPcfqHTD2)
+  
 </h1>
+
