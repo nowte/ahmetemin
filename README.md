@@ -1,4 +1,3 @@
-# ahmetemin
 <h1 align="center">✨ <br> This is me! <br></h1>
 <h1 align="center">💫 About Me 
 <h2 text-size="10px">
