@@ -27,7 +27,7 @@
 
 <h1 align="center">💰 <br> You can help me by Donating <br>   
   
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nwte) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nowte) 
   
 </h1>
 <h1 align="center">✉️ <br> Contact İnfo <br>   
