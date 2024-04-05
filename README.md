@@ -1,15 +1,21 @@
 <h1 align="center">✨ <br> This is me! <br></h1>
 <h1 align="center">💫 About Me 
 <h2 text-size="10px">
- "Hello, I am a 14-year-old young developer. I create projects and make them available to people. If there are technical problems in my projects, you can reach my e-mail address.  <br>
+ "Hello, I am a developer. I create projects and make them available to people. If there are technical problems in my projects, you can reach my e-mail address.  <br>
  
 </h2>
 
 </h1>
 
+<h1 align="center">💻 <br>Projects <br> 
+
+<a>🔭 Currently working on @VirtualStylus</a>
+
+</h1>
+
 
 <h1 align="center">💻 <br>Tech Stack <br> 
-  
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -19,7 +25,7 @@
 </h1>
 
 <h1 align="center">🌐 <br> Socials <br> 
-    
+ 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ahm3txy) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/aahmetemnayydin) 
