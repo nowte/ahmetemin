@@ -7,12 +7,7 @@
 
 </h1>
 
-<h1 align="center">💻 <br>Projects <br> 
-
-<a>🔭 Currently working on @VirtualStylus</a>
-
-</h1>
-
+<h3 align="center">🔭 Currently working on <a href="https://github.com/Virtual-Stylus" style="text-align:center">@Virtual Stylus Studio</a></h3>
 
 <h1 align="center">💻 <br>Tech Stack <br> 
 
@@ -21,6 +16,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 </h1>
 
