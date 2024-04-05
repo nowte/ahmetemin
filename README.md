@@ -11,6 +11,7 @@
 <h1 align="center">💻 <br>Tech Stack <br> 
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -22,6 +23,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ahm3txy) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/aahmetemnayydin) 
+[![Discord](https://img.shields.io/badge/Discord-black.svg?logo=discord&logoColor=white)](none) 
+[![Itch.Io](https://img.shields.io/badge/Itch.io-250,%2092,%2092?logo=itch.io&logoColor=white)](https://ahm3txy.itch.io/)
  
 </h1>
 
@@ -31,10 +34,7 @@
   
 </h1>
 <h1 align="center">✉️ <br> Contact İnfo <br>   
-  <br>
-  
-    ✉️ - developerahmet31@gmail.com
-
+ <a href="mailto:developerahmet31@gmail.com">developerahmet31@gmail.com</a>
 </h1>
    
 <h1 align="center">
