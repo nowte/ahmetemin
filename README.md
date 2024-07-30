@@ -7,7 +7,7 @@
 
 </h1>
 
-<h3 align="center">🔭 Currently working on <a href="https://github.com/Virtual-Stylus" style="text-align:center">@Virtual Stylus Studio</a> <a href="https://github.com/Devs-Script" style="text-align:center">@Devs Script®</a></h3>
+<h3 align="center">🔭 Currently working on <a href="https://github.com/Virtual-Stylus" style="text-align:center">@Virtual Stylus Studio</a>, <a href="https://github.com/Devs-Script" style="text-align:center">@Devs Script®</a></h3>
 
 <h1 align="center">💻 <br>Tech Stack <br> 
 
