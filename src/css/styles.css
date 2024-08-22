@@ -6,7 +6,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('/src/img/background-2.jpg'); /* Arka plan resmi */
+    background-image: url('https://github.com/nowte/luser-realms-topluluk/edit/main/src/img/background-2.jpg'); /* Arka plan resmi */
     background-size: cover; /* Resmi ekrana göre boyutlandır */
     background-position: center; /* Resmi ortala */
     background-attachment: fixed; /* Arka planın kaydırıldıkça sabit kalmasını sağlar */
