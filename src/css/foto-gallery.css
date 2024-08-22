@@ -30,7 +30,7 @@ nav ul {
 }
 
 nav ul li a {
-    list-style-type: none;
+    list-style-type: none; -
     color: #333; /* Siyah tonlarında metin rengi */
     text-decoration: none;
     padding: 0.5em 1em;
@@ -66,10 +66,10 @@ section {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Hafif gölge efekti */
 }
 
-/*.gallery img:hover {
+.gallery img:hover {
     transform: scale(1.2);  
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);  
-}*/
+}
 
 .message-box {
     position: absolute;
