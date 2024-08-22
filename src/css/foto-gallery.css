@@ -47,7 +47,6 @@ section {
 }
 
 .gallery {
-    cursor: pointer;
     display: flex;
     justify-content: center;
     gap: 10px;
