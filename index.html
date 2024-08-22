@@ -77,5 +77,195 @@
             <i class="fas fa-chevron-up"></i>
         </button>
     </footer>
+
+    <sytle>
+        html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://nowte.github.io/luser-realms-topluluk/src/img/background-2.jpg'); /* Arka plan resmi */
+    background-size: cover; /* Resmi ekrana göre boyutlandır */
+    background-position: center; /* Resmi ortala */
+    background-attachment: fixed; /* Arka planın kaydırıldıkça sabit kalmasını sağlar */
+    background-repeat: no-repeat; /* Resmin tekrarlamasını engeller */
+}
+
+nav {
+    background-color: rgba(255, 255, 255, 0.8); /* Yarı saydam beyaz */
+    /*backdrop-filter: blur(10px); /* Blur efekti */
+    padding: 1em;
+    position: fixed; /* Navbar'ın sayfanın üstünde sabit kalmasını sağlar */
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: background-color 0.3s ease, backdrop-filter 0.3s ease; /* Geçişleri smooth yapar */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: #333; /* Siyah tonlarında metin rengi */
+    text-decoration: none;
+    padding: 0.5em 1em;
+    transition: color 0.3s ease; /* Smooth renk geçişi */
+}
+
+nav ul li a:hover {
+    color: #000; /* Hover'da koyu siyah renk */
+}
+
+section {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 2em;
+    text-align: center;
+}
+
+.logo-container {
+    margin-bottom: 20px;
+}
+
+.logo {
+    max-width: 150px;
+    height: auto;
+}
+
+section h1, section h2 {
+    color: #333;
+}
+
+section p {
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto 2em;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.gallery img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #333;
+    text-align: center;
+    padding: 1em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer-links {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer-logo {
+    width: 30px;
+    height: auto;
+}
+
+#GalleryBtn {
+    background-color: #333; /* Butonun arka plan rengi */
+    color: #fff; /* Butonun metin rengi */
+    border: none; /* Kenarlık kaldırıldı */
+    border-radius: 4px; /* Köşeleri hafif yuvarlatır */
+    padding: 12px 20px; /* Butonun içindeki metin ve ikon için boşluk bırakır */
+    font-size: 16px; /* Metin boyutu */
+    cursor: pointer; /* Butona tıklanabilirlik işareti ekler */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Hafif gölge efekti */
+    transition: background-color 0.3s, box-shadow 0.3s; /* Renk ve gölge değişimlerini yumuşatır */
+    text-align: center; /* Metni ortalar */
+    display: inline-block; /* Butonu hizalamak için */
+    margin: 5px; /* Butonun etrafında boşluk bırakır */
+}
+
+#GalleryBtn:hover {
+    background-color: #333; /* Hover (üzerine gelindiğinde) arka plan rengi değişir */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); /* Hover durumunda gölge efekti artar */
+}
+
+#GalleryBtn:active {
+    background-color: #333; /* Butona tıklandığında arka plan rengi değişir */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Tıklama anında gölge efekti azaltılır */
+}
+
+#GalleryBtn:focus {
+    outline: none; /* Butona tıklandığında varsayılan kenarlık kaldırılır */
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.5); /* Odaklanma durumunda buton etrafında mavi bir kenarlık */
+}
+
+
+#scrollTopBtn {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 18px;
+    display: none; /* Başlangıçta gizli */
+    z-index: 1000; /* Diğer öğelerin üzerinde görünecek */
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+#scrollTopBtn:hover {
+    background-color: #333; /* Hover (üzerine gelindiğinde) arka plan rengi değişir */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); /* Hover durumunda gölge efekti artar */
+}
+
+#scrollTopBtn:active {
+    background-color: #333; /* Butona tıklandığında arka plan rengi değişir */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Tıklama anında gölge efekti azaltılır */
+}
+
+#scrollTopBtn:focus {
+    outline: none; /* Butona tıklandığında varsayılan kenarlık kaldırılır */
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.5); /* Odaklanma durumunda buton etrafında mavi bir kenarlık */
+}
+
+
+#copy {
+    font-size: 16px;
+    color: #333;
+    cursor: pointer;
+    user-select: text; /* Kopyalamayı engellemez, metnin seçilebilir olmasını sağlar */
+}
+
+#copy:focus {
+    outline: none;
+}
+    </sytle>
 </body>
 </html>
