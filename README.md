@@ -8,7 +8,7 @@
 <a href="https://github.com/nowte/meetApp/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/nowte/meetApp?style=for-the-badge" height="20"/></a>
 </p>
 <p align="center">
-  <b>Group Chat for Everyone <br> Meet makes it easy to connect with others face-to-face virtually and collaborate across any device.</b>
+  <p align="center">Group Chat for Everyone <br> Meet makes it easy to connect with others face-to-face virtually and collaborate across any device.</p>
   
 <p align="center">
 	<a href="https://github.com/nowte/meetApp/releases">Download & Release Notes</a>
